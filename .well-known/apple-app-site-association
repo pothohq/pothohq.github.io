@@ -9,8 +9,5 @@
              ]
            }
        ]
-   },
-   "webcredentials": {
-      "apps": [ "<team_id>.com.potho.consumer-ios" ]
-   },
+   }
 }
