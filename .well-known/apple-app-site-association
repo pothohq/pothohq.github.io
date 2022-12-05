@@ -3,7 +3,7 @@
       "details": [
            {
             "comment": "See https://facebook.com/apple-app-site-association for an example", 
-            "appIDs": [ "<team_id>.com.potho.consumer-ios" ],
+            "appIDs": [ "385YG76U68.com.potho.consumer-ios" ],
              "paths": [
                "*"
              ]
