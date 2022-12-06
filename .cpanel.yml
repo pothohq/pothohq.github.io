@@ -1,0 +1,6 @@
+---
+# documentation - https://docs.cpanel.net/knowledge-base/web-services/guide-to-git-deployment/
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/pothsmnc/public_html/
+    - /bin/cp index.html $DEPLOYPATH
