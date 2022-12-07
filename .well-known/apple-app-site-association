@@ -2,8 +2,11 @@
   "applinks": {
       "details": [
            {
-            "appID": "1658479982.com.potho.consumer-ios",
-            "paths": [ "*" ]
+            "appIDs": [ "1658479982.com.potho.consumer-ios" ],
+            "components": 
+            {
+                "*": "*"
+            }
            }
        ]
    }
