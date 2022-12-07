@@ -4,9 +4,7 @@
       "details": [
            {
             "appID": "385YG76U68.com.potho.consumer-ios",
-            "paths": [
-               "*"
-             ]
+            "paths": [ "*" ]
            }
        ]
    }
