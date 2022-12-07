@@ -1,9 +1,8 @@
 {
   "applinks": {
-      "apps": [],
       "details": [
            {
-            "appID": "385YG76U68.com.potho.consumer-ios",
+            "appID": "1658479982.com.potho.consumer-ios",
             "paths": [ "*" ]
            }
        ]
