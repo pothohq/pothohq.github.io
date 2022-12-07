@@ -4,4 +4,4 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/pothsmnc/public_html/
     - /bin/cp index.html $DEPLOYPATH
-    - /bin/cp apple-app-site-association $DEPLOYPATH
+    - /bin/cp .well-known/apple-app-site-association $DEPLOYPATH
