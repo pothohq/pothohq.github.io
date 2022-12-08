@@ -1,0 +1,4 @@
+#HTTP Strict Transport Security
+
+Header set Strict-Transport-Security: max-age=31536000 env=HTTPS
+AddType application/json json
